@@ -1,0 +1,15 @@
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.csproj.AssemblyReference.cache
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.AssemblyInfoInputs.cache
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.AssemblyInfo.cs
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.csproj.CoreCompileInputs.cache
+E:\project\inmar\inmar-project\console\bin\Debug\net7.0\console.exe
+E:\project\inmar\inmar-project\console\bin\Debug\net7.0\console.deps.json
+E:\project\inmar\inmar-project\console\bin\Debug\net7.0\console.runtimeconfig.json
+E:\project\inmar\inmar-project\console\bin\Debug\net7.0\console.dll
+E:\project\inmar\inmar-project\console\bin\Debug\net7.0\console.pdb
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.dll
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\refint\console.dll
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.pdb
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\console.genruntimeconfig.cache
+E:\project\inmar\inmar-project\console\obj\Debug\net7.0\ref\console.dll
